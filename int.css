@@ -49,7 +49,7 @@
 
 body{
 	background-color: #F0F0F0;
-	background-image: url('/images/bg3.jpg');
+	background-image: url('bg3.jpg');
 	background-size: cover;
 	/*background-blend-mode: color-dodge;*/
 }
